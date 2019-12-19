@@ -1,0 +1,54 @@
+{
+    "name": "Standard Treasury",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/standard-treasury.png",
+    "tags": [
+        "banking",
+        "financial",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/standard-treasury\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Standard Treasury",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/standard-treasury.png",
+            "humanURL": "http:\/\/www.standardtreasury.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/standard-treasury-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/standard-treasury-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/organization\/standard-treasury"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/standardtreasury"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/StandardAPI"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.standardtreasury.com\/"
+        }
+    ]
+}
