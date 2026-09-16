@@ -34,11 +34,11 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 x-status: defunct
-x-status-evidence: 'standardtreasury.com now 301-redirects to an unrelated host (cashmart.com.sg);
-  api.standardtreasury.com does not resolve (NXDOMAIN). Company acquired by Silicon Valley
-  Bank in 2015 and product wound down. No live API surface, docs, or spec to enrich.'
+x-status-evidence: standardtreasury.com now 301-redirects to an unrelated host (cashmart.com.sg); api.standardtreasury.com
+  does not resolve (NXDOMAIN). Company acquired by Silicon Valley Bank in 2015 and product wound down.
+  No live API surface, docs, or spec to enrich.
 x-enrichment:
   date: '2026-07-21'
   status: nochange
@@ -46,6 +46,7 @@ x-enrichment:
   pass: local-v1
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
